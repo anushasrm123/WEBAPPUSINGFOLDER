@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>WebApplication JSP Page</title>
+    <title>Web Application JSP Page</title>
   </head>
 
   <body bgcolor=white>
@@ -11,7 +11,7 @@
         <img src="images/springsource.png">
       </td>
       <td>
-         <h1>WebApplication JSP Page</h1>
+         <h1>Web Application JSP Page</h1>
       </td>
     </tr>
   </table>
